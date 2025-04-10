@@ -6,7 +6,7 @@ public class Main {
 		System.out.println("채경완");
 		World.run();
 		Hello.run();
-
+		World.run2();
 	}
 
 }
